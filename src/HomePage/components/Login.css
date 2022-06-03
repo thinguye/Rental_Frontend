@@ -1,0 +1,26 @@
+.login-form{
+   margin-top: 4px;
+   margin-right: 36px;
+}
+.label{
+    color: white;
+    padding-right: 10px;
+}
+.btn-login{
+    padding: 4px 16px;
+    border: 1px solid var(--primary-color);
+    border-radius: 4px;
+    cursor: pointer;
+    color: white;
+    font-weight: bolder;
+    background-color: var(--primary-color);
+    display: block;
+}
+.btn-login:hover{
+    background-color: green;
+}
+i.bi.bi-eye{
+    position: absolute;
+    right: 150px;
+    bottom: 20px;
+}
